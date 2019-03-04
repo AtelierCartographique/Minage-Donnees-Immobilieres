@@ -454,12 +454,9 @@ espacio_today = [["Type","Price","Rooms","Bathrooms","Info","Area","Floor","Year
 now = datetime.datetime.now()				
 
 for i in range(0,1000):
-	print('Page',i)
 	
 	for q in ["habana-vieja", "centro-habana" , "vedado" , "playa", "cerro", "diez-de-octubre"]:
 		print('Quartier',q)
 		spiderEspacio('http://www.espaciocuba.com/search/results/location/' + q + '/',i)
 	
 	spiderDestras('https://www.detrasdelafachada.com/list-homes-sale-cuba/la-habana/',i)
-	
-#	spiderCubaconstructions('http://havana-houses.com/index.php/es/inmobiliaria-cuba-propiedades/apartamentos-se-vende?start=',i)
