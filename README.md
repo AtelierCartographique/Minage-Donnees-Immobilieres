@@ -5,7 +5,8 @@ Outils de minage automatique de données immobilières (étude de cas de La Hava
 * www.espaciocuba.com
 * www.detrasdelafachada.com
 
-Une fois récupérées, des statistiques spaciales sont appliquées
+Une fois récupérées, des statistiques spaciales sont appliquées.
+Ce script inclue un système de création de sauvegarde compressées des bases de données créées à travers le temps.
 
 ## Bibliothèques Python 3 requises
 * BeautifulSoup
