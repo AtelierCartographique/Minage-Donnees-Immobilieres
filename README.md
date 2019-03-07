@@ -1,4 +1,4 @@
-# Minage-Donnees-Web (étude de cas utilisant des données immobilaires)
+# Minage-Donnees-Web
 
 ## Description
 Outil de minage automatique de données immobilières (étude de cas de La Havane à Cuba).
