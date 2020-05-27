@@ -16,4 +16,4 @@ Ce script inclut un système de sauvegardes compressées des bases de données c
 
 ## À faire
 * Universaliser le processus pour d'autres sites
-* Optionnaliser les statistiques spatiales et l'utilisation de Shapefiles
+* Rendre optionnelles les statistiques spatiales et l'utilisation de Shapefiles
